@@ -1,4 +1,6 @@
-Hope you're having a nice day :)
+Rust & Typescript.
+
+Have a nice day!
 
 <!---
 0xriku/0xriku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
